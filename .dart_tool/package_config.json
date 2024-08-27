@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/valentinfaucon/.pub-cache/hosted/pub.dev/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-08-27T16:56:26.882293Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.1",
+  "flutterRoot": "file:///Users/valentinfaucon/development/flutter",
+  "flutterVersion": "3.24.1",
+  "pubCache": "file:///Users/valentinfaucon/.pub-cache"
+}
